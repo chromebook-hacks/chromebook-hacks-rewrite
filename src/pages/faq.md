@@ -5,12 +5,6 @@ title: "FAQ"
 #### FAQ
 
 <details>
-  <summary>Can I unblock websites blocked by GoGuardian while keeping the extension enabled?</summary>
-
-  Yes! Refer to our [FakeGuardian](/docs/extras/fakeguardian) guide for more information.
-</details>
-
-<details>
   <summary>Can my admin see that I've unenrolled?</summary>
 
   Yes, your administrator can see that you've unenrolled *if you haven't used fakemurk or murkmod*. More specifically - your network administrator will be able to see that the "Last Sync Date" on your Chromebook will be slowly drifting into the past. However, there is no indicator saying, "This device is not enrolled".
